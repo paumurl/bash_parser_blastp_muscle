@@ -2,7 +2,7 @@
 #Ejercicio Evaluable bash v1.0
 #Paula Robles López, 2021
 
-# This script allow to performs blastp analysis using a urls_file to download the subject proteomes
+# This script allows to performs a blastp analysis using a urls_file to download the subject proteomes
 # this file have to contain two columns, first column contains the species (identifier) for that proteome
 # and the url. The script will generate a output project folder which contains two subfolders, data (here
 # downloaded proteomes are stored and input fasta files) and results (here blast result, in addition a folder is created
