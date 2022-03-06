@@ -1,7 +1,7 @@
 # bash_parser_blastp_muscle
 A bash parser that given a  protein fasta/multifasta and a two column text file (first: species identifier, second: url link to the subject proteome), will perform a blastp analysis for the query against the proteomes, and will create a MUSCLE allignment and neighbor tree for each query protein.
 
-Expected input files can be find in example_files/ for clarification.
+Expected input files can be found in example_files/ for clarification.
 
 
 ### ejercicio_bash2.sh
